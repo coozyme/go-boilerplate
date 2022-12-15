@@ -1,0 +1,17 @@
+server: 
+  AppName: App-Name
+  AppStage: DEVELOPMENT
+  AppKey: App-Key
+  Port: 3001
+  Version: 1.0.0
+
+jwt:
+  Secret: jwt
+
+mysql:
+  MysqlDriver: mysql
+  MysqlHost: 127.0.0.1
+  MysqlUserName: db_username
+  MysqlPort: 3306
+  MysqlPassword: db_password
+  MysqlName: db_name

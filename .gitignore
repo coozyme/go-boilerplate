@@ -1,0 +1,6 @@
+#ignore db
+*.sql
+
+*.log
+
+.DS_Store
